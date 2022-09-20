@@ -1,0 +1,2 @@
+# DataStructurePractice
+practice datastructure
